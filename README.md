@@ -1,6 +1,6 @@
 ![mit](https://img.shields.io/badge/License-MIT-brightgreen.svg) ![platform](https://img.shields.io/badge/Platform-watchOS-blue.svg) ![Lang](https://img.shields.io/badge/Language-Swift-orange.svg) 
 
-# **Summon** 
+# **Sherpa** 
 
 <img width="234" alt="img" src="https://rawgit.com/stylekit/img/master/summon_logo.svg">
 
